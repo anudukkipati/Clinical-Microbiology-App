@@ -1,0 +1,2 @@
+class AnaerobesController < ApplicationController
+end

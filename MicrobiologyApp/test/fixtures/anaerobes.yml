@@ -1,0 +1,23 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  gram_stain: MyText
+  characteristics: MyText
+  colony_morphology: MyText
+  tests: MyText
+  notes: MyText
+  diseases: MyText
+  image: MyString
+  link: MyString
+
+two:
+  name: MyString
+  gram_stain: MyText
+  characteristics: MyText
+  colony_morphology: MyText
+  tests: MyText
+  notes: MyText
+  diseases: MyText
+  image: MyString
+  link: MyString

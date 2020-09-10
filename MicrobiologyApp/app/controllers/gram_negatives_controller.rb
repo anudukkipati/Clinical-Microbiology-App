@@ -1,0 +1,2 @@
+class GramNegativesController < ApplicationController
+end

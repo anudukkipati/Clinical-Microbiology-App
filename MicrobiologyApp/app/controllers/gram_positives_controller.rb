@@ -1,0 +1,2 @@
+class GramPositivesController < ApplicationController
+end
