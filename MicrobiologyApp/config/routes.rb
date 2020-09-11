@@ -1,4 +1,7 @@
 Rails.application.routes.draw do
+
+  root "sessions#home"
+
   resources :anaerobes
   resources :gram_negatives
   resources :gram_positives
