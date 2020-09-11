@@ -1,0 +1,9 @@
+<h2>Gram Positive Bacteria</h2>
+<div>
+
+  <% @gram_positives.each do |gram_positive| %>
+    <div>
+      <h4><%= link_to gram_positive.name, gram_positive_path(gram_positive) %>
+    </div>
+ <% end %>
+</div>
